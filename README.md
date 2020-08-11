@@ -1,6 +1,6 @@
 # Lenovo XiaoXin air15 IKBR 2018
 
-2018版联想小新 Air15 IKBR，此EFI完美支持此机型安装 macOS 10.13，10.14，10.15系统。  
+2018版联想小新 Air15 IKBR EFI，完美支持安装 macOS10.15.X系统。  
   
 </br><b>【规  格  详细信息】</b></br>
 
