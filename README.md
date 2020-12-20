@@ -1,6 +1,10 @@
-# Lenovo XiaoXin air15 IKBR 2018
+# Lenovo XiaoXin air15 IKBR 2018 EFI
 
-2018版联想小新 Air15 IKBR EFI，完美支持安装 macOS10.15.X系统。  
+</br><b>【更新说明】</b>
+
+EFI_Clover_r5118.zip · · · · · · · · · · · · · ·支持macOS Catalina 10.15.X系统；
+
+EFI_OpenCore_0.6.3.zip · · · · · · · · · · · · ·支持macOS Big Sur 11.0/11.1系统。
   
 </br><b>【规  格  详细信息】</b></br>
 
@@ -48,7 +52,7 @@ USB：正常
 
 声卡：仿冒layout-id 3 成功
 
-网卡：自带网卡无解,已换DW1560。WIFI、蓝牙连接正常，隔空投送正常
+网卡：英特尔 Wireless-AC 3165 WIFI、蓝牙可以驱动。已换DW1560，WIFI、蓝牙连接正常，隔空投送正常
 
 HDMI：外接显示正常，HDMI音频正常
 
