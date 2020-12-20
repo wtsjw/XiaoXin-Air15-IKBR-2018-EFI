@@ -2,9 +2,11 @@
 
 </br><b>【更新说明】</b>
 
-EFI_Clover_r5118.zip · · · · · · · · · · · · · ·支持macOS Catalina 10.15.X系统；
+【2020/08/11】 EFI_Clover_r5118.zip · · · · · · · · · · · · · · · ·支持macOS Catalina 10.15.X系统；
 
-EFI_OpenCore_0.6.3.zip · · · · · · · · · · · · ·支持macOS Big Sur 11.0/11.1系统。
+【2020/12/20】 EFI_OpenCore_0.6.3.zip · · · · · · · · · · · · ·支持macOS Catalina 10.15.X系统；
+
+【2020/12/20】 EFI_OpenCore_0.6.3.zip · · · · · · · · · · · · ·支持macOS Big Sur 11.0/11.1系统。
   
 </br><b>【规  格  详细信息】</b></br>
 
@@ -30,15 +32,17 @@ EFI_OpenCore_0.6.3.zip · · · · · · · · · · · · ·支持macOS Big Sur
   
 </br><b>【启动方式】</b></br>
 
-Clover r5118
+Clover r5118，支持macOS Catalina 10.15.X；
 
-OpenCore 0.5.9  
+OpenCore 0.6.3，支持macOS Catalina 10.15.X；
+
+OpenCore 0.6.3，支持macOS Big Sur 11.0/11.1
 
 
 
 </br><b>【正常工作的设备】</b></br>
 
-系统：macOS Catalina 10.15.6 (19G73)
+系统：macOS Catalina 10.15.6（19G73）/ macOS Big Sur 11.1（20C69）
 
 独立显卡：屏蔽
 
@@ -52,7 +56,7 @@ USB：正常
 
 声卡：仿冒layout-id 3 成功
 
-网卡：英特尔 Wireless-AC 3165 WIFI、蓝牙可以驱动。已换DW1560，WIFI、蓝牙连接正常，隔空投送正常
+网卡：英特尔 AC3165 WIFI、蓝牙可以驱动。已换DW1560，WIFI、蓝牙连接正常，隔空投送正常
 
 HDMI：外接显示正常，HDMI音频正常
 
