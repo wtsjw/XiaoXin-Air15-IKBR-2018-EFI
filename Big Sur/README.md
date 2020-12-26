@@ -1,1 +1,1 @@
-For macOS Big Sur 11.X
+Support for macOS Big Sur 11.X
