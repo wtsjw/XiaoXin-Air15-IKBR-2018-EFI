@@ -2,11 +2,11 @@
 
 </br><b>【更新说明】</b>
 
-【2020/08/11】 EFI_Clover_r5118.zip · · · · · · · · · · · · · · · ·支持macOS Catalina 10.15.X系统；
+【2020/08/11】 EFI_Clover_r5118，支持macOS Catalina 10.15.X系统；
 
-【2020/12/20】 EFI_OpenCore_0.6.3.zip · · · · · · · · · · · · ·支持macOS Catalina 10.15.X系统；
+【2020/12/26】 EFI_OpenCore_0.6.3，支持macOS Catalina 10.15.X系统；
 
-【2020/12/20】 EFI_OpenCore_0.6.3.zip · · · · · · · · · · · · ·支持macOS Big Sur 11.0/11.1系统。
+【2020/12/26】 EFI_OpenCore_0.6.3，支持macOS Big Sur 11.0/11.1系统。
   
 </br><b>【规  格  详细信息】</b></br>
 
@@ -28,16 +28,6 @@
 
 读卡器:  Micro SD card reader. 
   
-  
-  
-</br><b>【启动方式】</b></br>
-
-Clover r5118，支持macOS Catalina 10.15.X；
-
-OpenCore 0.6.3，支持macOS Catalina 10.15.X；
-
-OpenCore 0.6.3，支持macOS Big Sur 11.0/11.1
-
 
 
 </br><b>【正常工作的设备】</b></br>
