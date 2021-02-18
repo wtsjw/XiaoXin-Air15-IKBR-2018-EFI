@@ -9,7 +9,13 @@
 【2021/02/18】 EFI_OpenCore_0.6.6，支持macOS Catalina 10.15.X系统；
 
 【2021/02/18】 EFI_OpenCore_0.6.6，支持macOS Big Sur 11.0/11.1/11.2.1系统。
-  
+
+</br><b>【新增Tool】</b>
+
+OpenCore Configurator2.23 适用 Opencore 0.6.6；
+
+ProperTree.app 适用 macOS Catalina 10.15.X系统.
+
 </br><b>【规  格  详细信息】</b></br>
 
 处理器:  英特尔 Core i5-8250U @ 1.60GHz
