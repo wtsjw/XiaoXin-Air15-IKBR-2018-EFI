@@ -1,14 +1,14 @@
 # Lenovo XiaoXin air15 IKBR 2018 EFI
 
-</b>Support for macOS Catalina 10.15.X and Big Sur 11.X
+</b>Support for macOS Catalina 10.15.X and Big Sur 11.0/11.1/11.2.1
 
 </br><b>【更新说明】</b>
 
 【2020/08/11】 EFI_Clover_r5118，支持macOS Catalina 10.15.X系统；
 
-【2020/12/26】 EFI_OpenCore_0.6.3，支持macOS Catalina 10.15.X系统；
+【2020/12/26】 EFI_OpenCore_0.6.6，支持macOS Catalina 10.15.X系统；
 
-【2020/12/26】 EFI_OpenCore_0.6.3，支持macOS Big Sur 11.0/11.1系统。
+【2020/12/26】 EFI_OpenCore_0.6.6，支持macOS Big Sur 11.0/11.1/11.2.1系统。
   
 </br><b>【规  格  详细信息】</b></br>
 
