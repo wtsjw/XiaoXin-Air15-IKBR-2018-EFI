@@ -10,6 +10,8 @@
 
 【2021/02/18】 EFI_OpenCore_0.6.6，支持macOS Big Sur 11.0/11.1/11.2.1系统。
 
+【2022/02/06】 EFI_OpenCore_0.6.6，修复睡眠唤醒后间歇性闪屏。
+
 </br><b>【新增Tool】</b>
 
 OpenCore Configurator2.23 适用 Opencore 0.6.6；
