@@ -16,7 +16,9 @@
 
 OpenCore Configurator2.23 适用 Opencore 0.6.6；
 
-ProperTree.app 适用 macOS Catalina 10.15.X系统.
+OpenCore Configurator2.50 适用 Opencore 0.7.6；
+
+ProperTree.app 适用 macOS Catalina 10.15.X / BigSur 11.x 系统.
 
 </br><b>【规  格  详细信息】</b></br>
 
