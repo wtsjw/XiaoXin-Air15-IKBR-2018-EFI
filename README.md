@@ -1,16 +1,16 @@
 # Lenovo XiaoXin air15 IKBR 2018 EFI
 
-</b>Support for macOS Catalina 10.15.X and Big Sur 11.x
+</b>Support for macOS Catalina 10.15.X and BigSur 11.x
 
 </br><b>【更新说明】</b>
 
-【2020/08/11】 EFI_Clover_r5118，支持macOS Catalina 10.15.X系统；
+【2020/08/11】 EFI_Clover_r5118，支持 macOS Catalina 10.15.X系统；
 
-【2021/02/18】 EFI_OpenCore_0.6.6，支持macOS Catalina 10.15.X系统；
-
-【2021/02/18】 EFI_OpenCore_0.6.6，支持macOS Big Sur 11.x系统。
+【2021/02/18】 EFI_OpenCore_0.6.6，支持 macOS Catalina 10.15.X / BigSur 11.x 系统。
 
 【2022/02/06】 EFI_OpenCore_0.6.6，修复睡眠唤醒后间歇性闪屏。
+
+【2022/05/07】 EFI_OpenCore_0.7.6，支持 macOS Catalina 10.15.X / BigSur 11.x 系统。
 
 </br><b>【新增Tool】</b>
 
@@ -56,7 +56,7 @@ USB：正常
 
 声卡：仿冒layout-id 3 成功
 
-网卡：英特尔 AC3165 WIFI、蓝牙可以驱动。(已换DW1560，WIFI、蓝牙连接正常，隔空投送正常)
+网卡：已换DW1560，WIFI、蓝牙连接正常，隔空投送正常。（英特尔 AC3165 WIFI、蓝牙可以驱动。）
 
 HDMI：外接显示正常，HDMI音频正常
 
