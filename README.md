@@ -10,7 +10,9 @@
 
 【2022/02/06】 EFI_OpenCore_0.6.6，修复睡眠唤醒后间歇性闪屏。
 
-【2022/05/07】 EFI_OpenCore_0.7.6，支持 macOS Catalina 10.15.X / BigSur 11.x 系统。
+【2022/05/14】 EFI_OpenCore_0.7.6，支持 macOS Catalina 10.15.X / BigSur 11.x 系统。
+
+【2022/05/14】 EFI_OpenCore_0.7.6，支持 macOS Monterey 12.3.1 系统。
 
 </br><b>【新增Tool】</b>
 
