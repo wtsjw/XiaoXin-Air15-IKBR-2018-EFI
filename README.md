@@ -1,6 +1,6 @@
 # Lenovo XiaoXin air15 IKBR 2018 EFI
 
-</b>Support for macOS Catalina 10.15.X and BigSur 11.x
+</b>Support for macOS Catalina 10.15.X , BigSur 11.x and Monterey 12.X
 
 </br><b>【更新说明】</b>
 
@@ -12,13 +12,13 @@
 
 【2022/05/14】 EFI_OpenCore_0.7.6，支持 macOS Catalina 10.15.X / BigSur 11.x 系统。
 
-【2022/05/14】 EFI_OpenCore_0.7.6，支持 macOS Monterey 12.3.1 系统。
+【2022/07/15】 EFI_OpenCore_0.7.6，支持 macOS Monterey 12.3.1 系统。
 
 </br><b>【新增Tool】</b>
 
 OpenCore Configurator2.23 适用 Opencore 0.6.6；
 
-OpenCore Configurator2.50 适用 Opencore 0.7.6；
+OpenCore Configurator2.55 适用 Opencore 0.7.6；
 
 ProperTree.app 适用 macOS Catalina 10.15.X / BigSur 11.x 系统.
 
