@@ -1,6 +1,6 @@
 # Lenovo XiaoXin air 15 IKBR 2018 EFI
 
-</b>Support for macOS Catalina 10.15.X , BigSur 11.x and Monterey 12.X
+</b>Support for macOS Catalina 10.15.X , BigSur 11.x , Monterey 12.X and Ventura 13.6.8 
 
 </br><b>【更新说明】</b>
 
@@ -13,6 +13,8 @@
 【2022/05/14】 EFI_OpenCore_0.7.6，支持 macOS Catalina 10.15.X / BigSur 11.x 系统。
 
 【2022/07/15】 EFI_OpenCore_0.7.6，支持 macOS Monterey 12.3.1 系统。
+
+【2026/08/14】 EFI_OpenCore_1.0.7，支持 macOS Ventura 13.6.8 系统；
 
 </br><b>【规  格  详细信息】</b></br>
 
@@ -52,7 +54,7 @@ USB：正常
 
 声卡：仿冒layout-id 3 成功
 
-网卡：已换DW1560，WIFI、蓝牙连接正常，隔空投送正常。（英特尔 AC3165 WIFI、蓝牙可以驱动。）
+网卡：已换DW1560，WIFI、蓝牙连接正常，隔空投送正常。
 
 HDMI：外接显示正常，HDMI音频正常
 
