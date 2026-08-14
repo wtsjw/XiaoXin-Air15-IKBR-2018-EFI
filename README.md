@@ -24,7 +24,7 @@
 
 显  卡:  Nvidia GeForce MX150 ( 2 GB )
 
-内  存:  8 GB
+内  存:  16GB
 
 硬  盘:  西数sn720 512GB 2280 NVMe固态
 
@@ -32,7 +32,7 @@
 
 声  卡:  RealTek alc236
 
-网  卡:  英特尔 Wireless-AC 3165
+网  卡:  DW1560 （博通Bcm94352z）
 
 读卡器:  Micro SD card reader. 
   
@@ -59,6 +59,8 @@ USB：正常
 HDMI：外接显示正常，HDMI音频正常
 
 摄像头：正常
+
+读卡器：正常
 
 睡眠（唤醒)：睡眠正常，键盘、掀盖唤醒正常
 
